@@ -1,0 +1,13 @@
+[Default]
+files = prog1.c
+bears = SpaceConsistencyBear,QuotesBear
+use_spaces = False
+language = c
+preferred_quotation = '
+
+[python]
+files = prog2.py
+bears = SpaceConsistencyBear,QuotesBear,pep8Bear,PycodestyleBear
+use_spaces = False
+language = python 3
+preferred_quotation = '
